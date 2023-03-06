@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Instagram_Power_Bi_Analysis             |  Instagram likes, connections and followers             | https://github.com/Gikubu/Instagram_Power_Bi_analysis-.git      |
+| 2 |  Excel analysis of bicycle purchases          |  Factors affecting Bicycle purchases           | https://github.com/Gikubu/Bicycle-Purchases-.git   |
+| 3 |  National_Park_Visualization_Data     |  Number of park visits to National park        | https://github.com/Gikubu/National_Park_Visualization_Data.git    |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
